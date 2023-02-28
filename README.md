@@ -22,12 +22,13 @@ In this course [Developing Android Apps with Kotlin](https://www.udacity.com/cou
 
 Once you got the basics right, you can check out the following course [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) for expanding your knowledge even more through learning some advanced topics, notifications, animations, graphics and testing to name a few examples.
 
-The two courses mentioned previously are using XML to define layouts. For those who are interested in Jetpack Compose (and you should **😁**), consider taking this course [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course). Concerning app architecture, look at this course [Modern Android app architecture](https://developer.android.com/courses/pathways/android-architecture).
+The two courses mentioned previously are using XML to define layouts. For those who are interested in Jetpack Compose (and you should 😁), consider taking this course [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course). Concerning app architecture, look at this course [Modern Android app architecture](https://developer.android.com/courses/pathways/android-architecture).
 
 And of course for building an app you should always keep in mind that you build it for everyone. For this, consider taking this course [Accessibility](https://developer.android.com/courses/pathways/make-your-android-app-accessible) to make sure your app is usable by everyone, including people with accessibility needs.
 
 Certainly your app might need to do some long runnning operations, doing the latter on the main thread might cause your app to be [janky](https://en.wiktionary.org/wiki/jank#:~:text=jank%20(uncountable),operations%20or%20poor%20interface%20design.), thus Kotlin Coroutines comes to the rescue. For the sake of using coroutines, this course [Kotlin coroutines](https://developer.android.com/courses/pathways/android-coroutines) and this [documentation](https://developer.android.com/kotlin/coroutines) are available for teaching you how to use coroutines within your android app in a proper manner.
 
 Ultimately, I belive this article would be helpful for those who are intersted in Koltin if you have any more information; article; course or videos, consider sharing them since sharing is caring!
+Also if you have any question feel free to ask me on twitter [@saidooubella](https://twitter.com/saidooubella) and hopefully I will be able to answer them all.
 
 Written by [Said Oubella](https://github.com/saidooubella).
